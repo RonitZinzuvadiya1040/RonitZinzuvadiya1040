@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### LinkedIn: https://in.linkedin.com/in/ronit-zinzuvadiya-4076b516a
+
 <!--
 **RonitZinzuvadiya1040/RonitZinzuvadiya1040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
