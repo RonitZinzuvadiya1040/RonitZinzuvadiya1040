@@ -10,14 +10,12 @@
 # Hello! 👋️
 ![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5)
 
-I am a software engineer from Brazil. My deal is building fast, beautiful and high-quality web apps, but I have also worked on mobile and desktop apps (it was pretty fun!). Whenever possible, I work with Open Source Software (OSS). You can check out my OSS projects here on GitHub.
-
-Also, feel free to check what I've been rambling about on <a href="https://fantinel.dev" target="_blank">my blog</a>.
+I am a software engineer from India. I like to work on building fast, beautiful and high-quality web apps. Whenever possible, I work with Open Source Software (OSS). You can check out my projects here on GitHub.
 
 <ul>
-<li>Front-End Web Developer</li>
+<li>Back-End Web Developer</li>
 <li>Open Sourcerer</li>
-<li>Bullet List Enthusiast</li>
+<!-- <li>Bullet List Enthusiast</li> -->
 </ul>
 
 ## I am good at a few things:
@@ -28,13 +26,4 @@ Also, feel free to check what I've been rambling about on <a href="https://fanti
 **RonitZinzuvadiya1040/RonitZinzuvadiya1040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
