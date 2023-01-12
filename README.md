@@ -3,7 +3,7 @@
 ###### LinkedIn: https://in.linkedin.com/in/ronit-zinzuvadiya-4076b516a
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
+  <img src="[https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg](https://media.licdn.com/dms/image/D4D03AQG0Gnsve62MfA/profile-displayphoto-shrink_800_800/0/1670345335347?e=2147483647&v=beta&t=ozRR-iGLe8L2gC5veMMJOGUMBeWtEeuXN-5d05fc-kA)" width="300" height="100">
 </p>	
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
