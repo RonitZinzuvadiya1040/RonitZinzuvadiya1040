@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://drive.google.com/file/d/13nGyR1qVYIkwVVu6ioqpRu-W6hFJz7NZ/view?usp=sharing" width="300" height="100">
 </p>	
+<img src="https://drive.google.com/file/d/13nGyR1qVYIkwVVu6ioqpRu-W6hFJz7NZ/view?usp=sharing" width="300" height="100">
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 # Hello! 👋️
