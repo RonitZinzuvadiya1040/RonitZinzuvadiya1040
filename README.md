@@ -6,7 +6,7 @@
 I am a software engineer from India. I like to work on building fast, beautiful and high-quality web apps. Whenever possible, I work with Open Source Software (OSS). You can check out my projects here on GitHub.
 
 ###### LinkedIn: https://in.linkedin.com/in/ronit-zinzuvadiya-4076b516a
-
+###### Instagram: https://www.instagram.com/ronit_zinzuwadiya/
 <!-- <ul>
 <li>Back-End Web Developer</li>
 <li>Open Sourcerer</li>
