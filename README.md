@@ -4,7 +4,10 @@
 
 ![](https://komarev.com/ghpvc/?username=RonitZinzuvadiya1040l&color=0ca4a5)
 
-I am a software engineer from India. I like to work on building fast, beautiful and high-quality web apps. Whenever possible, I work with Open Source Software (OSS). You can check out my projects here on GitHub.
+👋 Hi, Myself Ronit Zinzuvadiya. <br>
+👀 I’m Web Developer. <br>
+🌱 I’m currently Working on a Magento Open Source Framework. <br>
+📫 ronitzinzuvadiya2001@gmail.com <br>
 
 ###### LinkedIn: https://in.linkedin.com/in/ronit-zinzuvadiya-4076b516a
 ###### Instagram: https://www.instagram.com/ronit_zinzuwadiya/
