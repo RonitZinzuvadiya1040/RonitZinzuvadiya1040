@@ -12,9 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/imronitz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codestation1" height="30" width="40" /></a>
-<a href="https://in.linkedin.com/in/ronit-zinzuvadiya-4076b516a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haachal-pardeshi-258257225" height="30" width="40" /></a>
-<a href="https://instagram.com/ronit_zinzuwadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@code_station_" height="30" width="40" /></a>
+  <a href="https://ronitz.hashnode.dev/preview/64666a019c79f6000f596680" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="codestation1" height="30" width="40" /></a>
+  <a href="https://twitter.com/imronitz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codestation1" height="30" width="40" /></a>
+  <a href="https://in.linkedin.com/in/ronit-zinzuvadiya-4076b516a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haachal-pardeshi-258257225" height="30" width="40" /></a>
+  <a href="https://instagram.com/ronit_zinzuwadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@code_station_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,22 +56,23 @@
 <!-- <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> -->
 </p>
 
+<div align="center">
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RonitZinzuvadiya1040&show_icons=true&locale=en&layout=compact" alt="ronit-zinzuvadiya"/>
+</p>
+</div>
+
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <br>
-  
+
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RonitZinzuvadiya1040&theme=dark&show_icons=true"/>
-  </div>
+</div>
 <br>
-
-<div align="center">
-
-
-<br/>
  
 </details>
 
