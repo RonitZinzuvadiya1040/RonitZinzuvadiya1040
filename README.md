@@ -53,6 +53,10 @@
   <a href="https://www.laravel.com" target="_blank" rel="noreferrer">
     <img class="w-12" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
   </a>
+  <a href="https://www.magento.com" target="_blank" rel="noreferrer">
+    <img class="w-12" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/magento-icon.svg" alt="Magento" width="40" height="40"/>
+  </a>
+  
 <!-- <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> -->
 </p>
 
